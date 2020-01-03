@@ -1,0 +1,34 @@
+Bad Checksum - idPage: 0, tyPage: 0, iPage: 0
+Source      : D:\QP\Database Backup\take1\QPGenerator_log.ldf
+Destination : C:\Users\viren\AppData\Local\Temp\sql35A8.tmp
+Repairing - verMajor: 1, verMinor: 0, verBuild: 0, verPoint: 0
+Time - 2019-29-03 21:02:07.446
+Database format in database header page is corrupt (or not a database file)
+Bad Checksum - idPage: 0, tyPage: 0, iPage: 13
+Bad Checksum - idPage: 8, tyPage: 0, iPage: 29
+Bad Checksum - idPage: 33, tyPage: 0, iPage: 59
+Bad Checksum - idPage: 36, tyPage: 0, iPage: 181
+Bad Checksum - idPage: 37, tyPage: 0, iPage: 248
+Bad Checksum - idPage: 38, tyPage: 0, iPage: 56
+Bad Checksum - idPage: 39, tyPage: 0, iPage: 130
+Bad Checksum - idPage: 98, tyPage: 0, iPage: 24
+Bad Checksum - idPage: 178, tyPage: 0, iPage: 36
+Bad Checksum - idPage: 228, tyPage: 0, iPage: 4
+Bad Checksum - idPage: 244, tyPage: 0, iPage: 16
+Bad Checksum - idPage: 456, tyPage: 0, iPage: 179
+Bad Checksum - idPage: 464, tyPage: 0, iPage: 5
+Bad Checksum - idPage: 480, tyPage: 0, iPage: 32
+Bad Checksum - idPage: 1882, tyPage: 0, iPage: 136
+Bad Checksum - idPage: 1890, tyPage: 0, iPage: 11
+Bad Checksum - idPage: 1914, tyPage: 0, iPage: 84
+Bad Checksum - idPage: 4192, tyPage: 0, iPage: 211
+Bad Checksum - idPage: 4216, tyPage: 0, iPage: 203
+Bad Checksum - idPage: 4240, tyPage: 0, iPage: 12
+Bad Checksum - idPage: 8378, tyPage: 0, iPage: 204
+Bad Checksum - idPage: 10428, tyPage: 0, iPage: 128
+Bad Checksum - idPage: 11148, tyPage: 0, iPage: 21
+Bad Checksum - idPage: 65536, tyPage: 8, iPage: 236
+Bad Checksum - idPage: 131072, tyPage: 1, iPage: 9
+Bad Checksum - idPage: 131074, tyPage: 0, iPage: 74
+Bad Checksum - idPage: 589824, tyPage: 8, iPage: 33
+

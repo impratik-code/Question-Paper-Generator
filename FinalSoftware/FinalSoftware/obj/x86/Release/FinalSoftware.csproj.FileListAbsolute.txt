@@ -1,0 +1,12 @@
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\bin\Release\FinalSoftware.exe.config
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\bin\Release\FinalSoftware.exe
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\bin\Release\FinalSoftware.pdb
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\bin\Release\Bunifu_UI_v1.52.dll
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.dashboard.resources
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.Form1.resources
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.LoginForm.resources
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.Properties.Resources.resources
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.SignUp.resources
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.csproj.GenerateResource.Cache
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.exe
+c:\users\viren\documents\visual studio 2010\Projects\FinalSoftware\FinalSoftware\obj\x86\Release\FinalSoftware.pdb
